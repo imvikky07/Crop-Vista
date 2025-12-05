@@ -1,0 +1,15 @@
+India is an agrarian country and its economy is largely based on crop productivity. Hence, we
+can say that agriculture can be the backbone of all the business in our country. The agriculture
+plays a dominant role in the growth of the country’s economy. Climate and other environmental
+changes has become a major threat in the agriculture field. Machine learning (ML) is an
+essential approach for achieving practical and effective solutions for this problem. Crop Yield
+Prediction involves predicting yield of the crop from available historical available data like
+weather parameter, soil parameter and historic crop yield. This focus on predicting the yield of
+the crop based on the existing data by using Random Forest algorithm. The prediction will help
+farmer to predict the yield of the crop before cultivating onto the agriculture field. To predict
+the crop yield in future accurately Random Forest, a most powerful and popular supervised
+machine learning algorithm is used.
+
+This Project sought to predict crop yield based on certain attributes such as crop, pH, Rainfall,
+etc, also suggests some high yield crops for those conditions. The outcome of this project would
+be a web application that calculates crop yield and recommends some high yielding crops.
